@@ -14,7 +14,7 @@ NetBeans IDE, IntelliJ IDEA, Visual Studio Code, Android Studio, Oracle SQL Deve
 Windows Operating System, CentOS, DSL Linux. <br />
 
 
-I’m currently looking for Entry/Junior Software Development Jobs in Ontario, Canada, preferably remote. <br />
+I’m currently looking for Entry/Junior Software Development or Software Support Jobs in Ontario, Canada. I am open to in-person and remote positions. <br />
 **You can reach me at:** stephen.r.github@outlook.com
 
 <!---
